@@ -1,0 +1,7 @@
+resto_barre_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: RestoBarreBundle:Default:index }
+RestoBarreBundle_article:
+    resource: "@RestoBarreBundle/Resources/config/routing/article.yml"
+    prefix:   /article
+

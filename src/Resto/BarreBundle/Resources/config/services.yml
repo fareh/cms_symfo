@@ -1,0 +1,7 @@
+parameters:
+#    resto_barre.example.class: Resto\BarreBundle\Example
+
+services:
+#    resto_barre.example:
+#        class: %resto_barre.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
